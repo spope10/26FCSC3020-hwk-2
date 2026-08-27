@@ -17,7 +17,31 @@ Based on this description, create 10 high-level requirements for the sales syste
 * 2 system requirements (technical or environmental constraints)
 
 ```
-Write your requirements here!
+User Functional Requirements
+
+1. Salespeople should be able to view a list of potential customers using publicly available property data.
+
+2. Salespeople should be able to view property details, such as the number of rooms and whether the property has a garage.
+
+3. Salespeople should be able to complete a questionnaire about each customer's home security needs.
+
+4. Salespeople should be able to receive a recommended security system based on the questionnaire answers.
+
+User Non-Functional Requirements
+
+5. The system should display customer information and questionnaire results within a few seconds.
+
+6. The system should provide an interface that is easy for salespeople to understand and navigate.
+
+7. The system should display information clearly on large-screen mobile devices without requiring excessive scrolling or zooming.
+
+8. The system should protect customer information from unauthorized access.
+
+System Requirements
+
+9. The system shall be compatible with large-screen mobile devices used by the sales team.
+
+10. The system shall access and process publicly available property data needed to identify potential customers.
 ```
 
 # Instructions: Part 2
@@ -26,7 +50,7 @@ For each of the following high-level requirements, mark them as either user or s
 
 * librarians should be able to generate reports on book loans, returns, and inventory status *
 
-[ ] user, functional requirement
+[x] user, functional requirement
 
 [ ] user, non-functional requirement
 
@@ -38,11 +62,11 @@ For each of the following high-level requirements, mark them as either user or s
 
 [ ] user, non-functional requirement
 
-[ ] system requirement
+[x] system requirement
 
 * users should get notifications about due dates and overdue books *
 
-[ ] user, functional requirement
+[x] user, functional requirement
 
 [ ] user, non-functional requirement
 
@@ -52,13 +76,13 @@ For each of the following high-level requirements, mark them as either user or s
 
 [ ] user, functional requirement
 
-[ ] user, non-functional requirement
+[x] user, non-functional requirement
 
 [ ] system requirement
 
 * users should be able to search for for books by title, author, genre, or ISBN *
 
-[ ] user, functional requirement
+[x] user, functional requirement
 
 [ ] user, non-functional requirement
 
